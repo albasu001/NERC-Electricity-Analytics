@@ -108,12 +108,20 @@ Customer complaints are treated as a customer-experience indicator and not as a 
 
 **Adam Muhammad Albasu**
 
-Data Analyst | Python | SQL | Excel | Looker Studio
+**Data Analyst | Data Scientist | GIS & Remote Sensing Enthusiast | Research & Decision Intelligence**
 
-GitHub: https://github.com/albasu001
+**Technical Skills:**
+- **Data Analytics & Visualization:** Excel, Google Sheets, Looker Studio, Power BI
+- **Programming & Data Science:** Python, Pandas, SQL, data cleaning, exploratory data analysis
+- **GIS & Remote Sensing:** QGIS, spatial data analysis, geospatial visualization
+- **Research & Analysis:** Data extraction, research methodology, statistical analysis, performance monitoring and evidence-based decision-making
+- **Data Communication:** Interactive dashboards, analytical reporting, data storytelling and visualization
+- **Productivity & Collaboration:** Google Colab, GitHub, Microsoft Office
 
-LinkedIn: https://www.linkedin.com/in/adam-muhammad-albasu-762a22386
+**Professional Interests:** Energy analytics, public-sector intelligence, geospatial intelligence, AI-powered decision support and development research.
 
-## 12. License
+**GitHub:** https://github.com/albasu001
+
+**LinkedIn:** https://www.linkedin.com/in/adam-muhammad-albasu-762a22386## 12. License
 
 This project is licensed under the MIT License.
